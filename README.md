@@ -32,9 +32,10 @@ This project aims to identify the type of sport depicted in an image (e.g., Cric
 
 ## 📊 3. Dataset
 
-- **Source**: Custom curated image folders for each sport class
+- **Source**: (Kaggle)[https://www.kaggle.com/datasets/gpiosenka/sports-classification/data?select=sports.csv]
 - **Structure**: 
   - `train/` folder with subfolders for each sport category
+  - `test/` folder for validation images
   - `val/` folder for validation images
 - **Classes**: Multiple sports (e.g., Cricket, Football, Basketball, etc.)
 
